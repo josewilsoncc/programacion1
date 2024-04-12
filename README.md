@@ -5,7 +5,7 @@ Descripciín basisca de su Proyecto de POO ...
 # Autores
 
 - Jose Capera
-- Autor 2
+- David Arango
 
 # Herramientas
 
